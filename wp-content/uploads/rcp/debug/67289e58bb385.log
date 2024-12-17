@@ -1,0 +1,9 @@
+2024-11-04 10:13:44 - wp_rcp_discounts table upgrade to 202003311 successful.
+2024-11-04 10:13:44 - wp_rcp_discounts table upgrade to 202003312 successful.
+2024-11-04 10:13:44 - wp_rcp_discounts table upgrade to 202003313 successful.
+2024-11-04 10:23:34 - Starting rcp_check_for_expired_users() cron job.
+2024-11-04 10:23:34 - Starting rcp_check_for_soon_to_expire_users() cron job.
+2024-11-04 10:23:34 - Starting rcp_check_member_counts() cron job.
+2024-11-04 10:23:34 - Starting rcp_mark_abandoned_payments() cron job.
+2024-11-05 08:14:40 - wp_mail() failure in RCP_Emails class.
+2024-11-05 08:14:48 - wp_mail() failure in RCP_Emails class.

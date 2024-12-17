@@ -1,0 +1,23 @@
+name: Deploy to WP Engine from Github
+
+on:
+  push:
+    branches:
+      - master  # Trigger deployment when pushing to the main branch
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up SSH
+        uses: webfactory/ssh-agent@v0.5.3
+        with:
+          ssh-private-key: ${{ secrets.WPENGINE_SSH_PRIVATE_KEY }}
+
+      - name: Deploy to WP Engine
+        run: |
+          ssh -p 2222 -o StrictHostKeyChecking=no ${{ secrets.WPENGINE_PRODUCTION_USERNAME }}@${{ secrets.WPENGINE_PRODUCTION_HOST }} "cd / && git pull origin master"

@@ -1,0 +1,54 @@
+0000000000000000000000000000000000000000 050dd5a1d8d7f3c58479381d89f8e5cba0b26e59 Gauri Kaushik <gaurikaushik2013@gmail.com> 1733981526 +0530	branch: Created from master
+050dd5a1d8d7f3c58479381d89f8e5cba0b26e59 e916fc9efc4cdb9e3a5de412cfc109c7473fe084 Gauri Kaushik <gaurikaushik2013@gmail.com> 1733981591 +0530	commit: Header changes
+e916fc9efc4cdb9e3a5de412cfc109c7473fe084 f132bb51aba1babd7fc94c5e0678c508ec55a900 Gauri Kaushik <gaurikaushik2013@gmail.com> 1733981889 +0530	commit: header change again
+f132bb51aba1babd7fc94c5e0678c508ec55a900 81403794af4bede9366247c17e497d7eb928f37e Gauri Kaushik <gaurikaushik2013@gmail.com> 1733983669 +0530	commit: First Deployment
+81403794af4bede9366247c17e497d7eb928f37e ab08cb8e3c17cc4005550fcd13465109e901d5c1 Gauri Kaushik <gaurikaushik2013@gmail.com> 1733992936 +0530	commit: numeric changes
+ab08cb8e3c17cc4005550fcd13465109e901d5c1 3be338f2fe74236dcdf91157a709709870431bef Gauri Kaushik <gaurikaushik2013@gmail.com> 1733993466 +0530	commit: remove the comment
+3be338f2fe74236dcdf91157a709709870431bef 883ba8995215775beab4b72fa92cf364ccc9c9a9 Gauri Kaushik <gaurikaushik2013@gmail.com> 1733993478 +0530	pull --ff --recurse-submodules --progress origin: Merge made by the 'ort' strategy.
+883ba8995215775beab4b72fa92cf364ccc9c9a9 bbd308f45c62c1be9d3b828e0853721ce80d1f84 Gauri Kaushik <gaurikaushik2013@gmail.com> 1733994369 +0530	commit: new changes.
+bbd308f45c62c1be9d3b828e0853721ce80d1f84 8a4d4e8d00bf40cc6a127919bb32159ad7dea6f0 Gauri Kaushik <gaurikaushik2013@gmail.com> 1733997132 +0530	commit: Made new Master.yml with Username etc
+8a4d4e8d00bf40cc6a127919bb32159ad7dea6f0 a0dcc6a75871a1ae5277c476246b09bb70ce2b72 Gauri Kaushik <gaurikaushik2013@gmail.com> 1733997161 +0530	commit: deleted main.yml
+a0dcc6a75871a1ae5277c476246b09bb70ce2b72 44fb4cec1de86964b189a395273b4f4247f16407 Gauri Kaushik <gaurikaushik2013@gmail.com> 1733997186 +0530	commit: Update master.yml
+44fb4cec1de86964b189a395273b4f4247f16407 9a092251ba8f5cf99b37b5cfcdaa4d13afcbcf64 Gauri Kaushik <gaurikaushik2013@gmail.com> 1733998130 +0530	commit: Update header.php
+9a092251ba8f5cf99b37b5cfcdaa4d13afcbcf64 5aa893b6ab062257f6821001f7b601f1496642ec Gauri Kaushik <gaurikaushik2013@gmail.com> 1733998315 +0530	commit: Update master.yml
+5aa893b6ab062257f6821001f7b601f1496642ec e2b75664addf9fb9e23e846b60f3d1ef0f3f0af0 Gauri Kaushik <gaurikaushik2013@gmail.com> 1733998924 +0530	commit: Update header.php
+e2b75664addf9fb9e23e846b60f3d1ef0f3f0af0 4c8a974f7e31fb146979e123cc1deb40132dd08a Gauri Kaushik <gaurikaushik2013@gmail.com> 1733999028 +0530	commit: Update header.php
+4c8a974f7e31fb146979e123cc1deb40132dd08a dcc4b4b1008e4be12fd4fa9b706159b47a58cb06 Gauri Kaushik <gaurikaushik2013@gmail.com> 1733999163 +0530	commit: Update master.yml
+dcc4b4b1008e4be12fd4fa9b706159b47a58cb06 6bbf6acb6de36f49ab164bc8c570bbadc2569900 Gauri Kaushik <gaurikaushik2013@gmail.com> 1734000821 +0530	commit: Update header.php
+6bbf6acb6de36f49ab164bc8c570bbadc2569900 f000ed59daa4d0e262c2f0fcc96488f9fde6ca0b Gauri Kaushik <gaurikaushik2013@gmail.com> 1734001445 +0530	commit: Update header.php
+f000ed59daa4d0e262c2f0fcc96488f9fde6ca0b e85e45f95d0128a5e9d30cf54180ebc21f78db14 Gauri Kaushik <gaurikaushik2013@gmail.com> 1734062550 +0530	commit: added port number in YML
+e85e45f95d0128a5e9d30cf54180ebc21f78db14 cc9d29bc06f8f8aeee2df9b68b332ae1ecc4b189 Gauri Kaushik <gaurikaushik2013@gmail.com> 1734063376 +0530	commit: Update header.php
+cc9d29bc06f8f8aeee2df9b68b332ae1ecc4b189 37d842b7fe5cb106b6f2788a5851929eadb9cf02 Gauri Kaushik <gaurikaushik2013@gmail.com> 1734066612 +0530	commit: Delete master.yml
+37d842b7fe5cb106b6f2788a5851929eadb9cf02 e23a81b6d570575b13d69f3c9abb76a075ba464e Gauri Kaushik <gaurikaushik2013@gmail.com> 1734087654 +0530	commit: Update header.php
+e23a81b6d570575b13d69f3c9abb76a075ba464e 7bd35614f3be59f4e31a4329a5a4d107a41bec67 Gauri Kaushik <gaurikaushik2013@gmail.com> 1734089238 +0530	commit (merge): Merge branch 'master' into HeaderChanges
+7bd35614f3be59f4e31a4329a5a4d107a41bec67 fbf5d732990197ba8dafc94e0eca4cf757099453 Gauri Kaushik <gaurikaushik2013@gmail.com> 1734090135 +0530	commit: Update master.yml
+fbf5d732990197ba8dafc94e0eca4cf757099453 8e1ca7ad1890203d7620043466f22c561f606086 Gauri Kaushik <gaurikaushik2013@gmail.com> 1734090255 +0530	commit: Update master.yml
+8e1ca7ad1890203d7620043466f22c561f606086 d9972f0126bf836dd219906473cbdb4113ddd358 Gauri Kaushik <gaurikaushik2013@gmail.com> 1734090269 +0530	pull --ff --recurse-submodules --progress origin: Merge made by the 'ort' strategy.
+d9972f0126bf836dd219906473cbdb4113ddd358 bbfc83fd5fe6ce69e720b7ddf5f4d965efb6c70d Gauri Kaushik <gaurikaushik2013@gmail.com> 1734090435 +0530	commit: Update master.yml
+bbfc83fd5fe6ce69e720b7ddf5f4d965efb6c70d 71ff715b268c261f69db41a3899401fd5a5d7c8b Gauri Kaushik <gaurikaushik2013@gmail.com> 1734090710 +0530	commit: Update master.yml
+71ff715b268c261f69db41a3899401fd5a5d7c8b c8cbdcb0fea5ce4f13dbc51cf9eff6b3e90cc830 Gauri Kaushik <gaurikaushik2013@gmail.com> 1734407606 +0530	commit: Update master.yml
+c8cbdcb0fea5ce4f13dbc51cf9eff6b3e90cc830 f8caa4d2a6793ad070247006bbafd3b67ae8a7ed Gauri Kaushik <gaurikaushik2013@gmail.com> 1734408031 +0530	commit: taken backup of old master.yml
+f8caa4d2a6793ad070247006bbafd3b67ae8a7ed 9536b438241df7ac3bc35b3cbe5c0c33741ea4db Gauri Kaushik <gaurikaushik2013@gmail.com> 1734408385 +0530	commit: Update master.yml
+9536b438241df7ac3bc35b3cbe5c0c33741ea4db ded8fbb642085faf4e50056067d9086731742bbf Gauri Kaushik <gaurikaushik2013@gmail.com> 1734408896 +0530	commit: Delete birds.mp4
+ded8fbb642085faf4e50056067d9086731742bbf 4c002a7c40d1bdcdb61d86b37b618021517da3ac Gauri Kaushik <gaurikaushik2013@gmail.com> 1734409555 +0530	commit: Update master.yml
+4c002a7c40d1bdcdb61d86b37b618021517da3ac 28b73bf883d2078a1a051c56ad57012bae6dd020 Gauri Kaushik <gaurikaushik2013@gmail.com> 1734410359 +0530	commit: Update master.yml
+28b73bf883d2078a1a051c56ad57012bae6dd020 2b23f8249086649c67da31bd4e7142299f679dfc Gauri Kaushik <gaurikaushik2013@gmail.com> 1734412847 +0530	commit: Update header.php
+2b23f8249086649c67da31bd4e7142299f679dfc b3e4f1b0e8f4490645e3bf64f26ba7ff3236260c Gauri Kaushik <gaurikaushik2013@gmail.com> 1734416404 +0530	commit: Update header.php
+b3e4f1b0e8f4490645e3bf64f26ba7ff3236260c 0dfa42cfdef3f09366132d3e485945bc05c1a1e8 Gauri Kaushik <gaurikaushik2013@gmail.com> 1734420821 +0530	commit: Update header.php
+0dfa42cfdef3f09366132d3e485945bc05c1a1e8 f1b364dbe2a0d59c585a57c26401ed4e8d8e04b4 Gauri Kaushik <gaurikaushik2013@gmail.com> 1734428371 +0530	commit: Update header.php
+f1b364dbe2a0d59c585a57c26401ed4e8d8e04b4 e0630cb66f8a1f4dd3c46ca5fb97a0679e5ed941 Gauri Kaushik <gaurikaushik2013@gmail.com> 1734428639 +0530	commit: Update master.yml
+e0630cb66f8a1f4dd3c46ca5fb97a0679e5ed941 9d361009c99b225393a077bcf1b2e45fca4adfd4 Gauri Kaushik <gaurikaushik2013@gmail.com> 1734428646 +0530	commit: Create master123.yml
+9d361009c99b225393a077bcf1b2e45fca4adfd4 09577d6ab0ba1cf1eebe181fd49cba88766a2fd6 Gauri Kaushik <gaurikaushik2013@gmail.com> 1734428780 +0530	commit: Update header.php
+09577d6ab0ba1cf1eebe181fd49cba88766a2fd6 fa4b87a561573cf1757ac766a892cd869267431f Gauri Kaushik <gaurikaushik2013@gmail.com> 1734428911 +0530	commit: dfgdfg
+fa4b87a561573cf1757ac766a892cd869267431f cc11bec4bee17921d0ac096c849bd1a90a06b3ea Gauri Kaushik <gaurikaushik2013@gmail.com> 1734429222 +0530	commit: Update master.yml
+cc11bec4bee17921d0ac096c849bd1a90a06b3ea 12e5a26a928d64f05b70fb600e8371736537bc6e Gauri Kaushik <gaurikaushik2013@gmail.com> 1734429356 +0530	commit: Changes in YML and Header files
+12e5a26a928d64f05b70fb600e8371736537bc6e dd919b70b9d3c8b3663fd54b889f01e7f88a959a Gauri Kaushik <gaurikaushik2013@gmail.com> 1734429892 +0530	commit: Update master.yml
+dd919b70b9d3c8b3663fd54b889f01e7f88a959a 99700188d7bcbb4a51a8eebb2d68d2d260a8a803 Gauri Kaushik <gaurikaushik2013@gmail.com> 1734430356 +0530	commit: Update header.php
+99700188d7bcbb4a51a8eebb2d68d2d260a8a803 007269eec06bdb94388a7eae2db860e0efe69449 Gauri Kaushik <gaurikaushik2013@gmail.com> 1734430598 +0530	commit: Update master.yml
+007269eec06bdb94388a7eae2db860e0efe69449 04268e58171e36b5d579a0471cfabd774ac71c25 Gauri Kaushik <gaurikaushik2013@gmail.com> 1734430708 +0530	commit: Update master.yml
+04268e58171e36b5d579a0471cfabd774ac71c25 856349c024055738e1e4fe03bbc65f8267280e4e Gauri Kaushik <gaurikaushik2013@gmail.com> 1734430776 +0530	commit: Update master.yml
+856349c024055738e1e4fe03bbc65f8267280e4e 936636bc5c898c6d2a44e89a4a240e96606ac2d8 Gauri Kaushik <gaurikaushik2013@gmail.com> 1734431645 +0530	commit: Your commit message
+936636bc5c898c6d2a44e89a4a240e96606ac2d8 95b2fad9839cdc75daf8a7224c3cdbab8da103d9 Gauri Kaushik <gaurikaushik2013@gmail.com> 1734432085 +0530	commit: Update header.php
+95b2fad9839cdc75daf8a7224c3cdbab8da103d9 13c0d0f59da636615076bc5fd9a2bbc0624e088b Gauri Kaushik <gaurikaushik2013@gmail.com> 1734432332 +0530	commit: updatte file
+13c0d0f59da636615076bc5fd9a2bbc0624e088b 2342a7323a83c9e5e9d4923ac9dca3be2b326554 Gauri Kaushik <gaurikaushik2013@gmail.com> 1734432393 +0530	commit: update file
+2342a7323a83c9e5e9d4923ac9dca3be2b326554 e5e81b1f35427b9d6abfd1ed5229a0e519232bf5 Gauri Kaushik <gaurikaushik2013@gmail.com> 1734433190 +0530	commit: Added Sonali name here
