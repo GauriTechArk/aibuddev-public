@@ -21,7 +21,7 @@
 
 <body <?php body_class(); ?>>
 <header id="masthead" class="site-header">
-	gauri and Sonali changes on 18th Dec 2024
+	gauri and Sonali changes on 18th Dec 2024.
 	<!-- New changes on HeaderChanges Branch 123 -->
 	<div class="top-navigation">
 		<!-- Mobile menu -->
